@@ -1,4 +1,4 @@
-# Matrix Icons React
+# Matrix Icons React Native
 
 ![Matrix Icons React Logo](https://raw.githubusercontent.com/jatinder-singh221/matrix-icons-react/main/Matrix.svg)
 
@@ -6,7 +6,7 @@
 
 ![npm](https://img.shields.io/npm/v/matrix-icons-react?color=green)
 
-Matrix Icons React is a React library that provides a collection of high-quality icons for use in React applications. These icons are designed to be visually appealing, scalable, and easily integrable into your projects.
+Matrix Icons React Native is a React Native library that provides a collection of high-quality icons for use in React applications. These icons are designed to be visually appealing, scalable, and easily integrable into your projects.
 
 ## Installation
 
