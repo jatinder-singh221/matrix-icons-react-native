@@ -1,0 +1,35 @@
+{
+  "name": "matrix-icons-react-native",
+  "version": "1.0.0",
+  "description": "Impeccably designed and handcrafted icons, showcasing craftsmanship.",
+  "main": "index.js",
+  "scripts": {
+    "build-icons-solid": "svgr --no-svgo --out-dir ./build/react-native/solid ./icons/solid/*.svg",
+    "build-icons-oultline": "svgr --no-svgo --out-dir ./build/react-native/outline ./icons/outline/*.svg"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jatinder-singh221/matrix-icons-react-native.git"
+  },
+  "keywords": [
+    "npm, matrixicons, SVG, font icons, vector icons, ns, Vue.js icons, icon library"
+  ],
+  "author": "jatinder singh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jatinder-singh221/matrix-icons-react-native/issues"
+  },
+  "homepage": "https://github.com/jatinder-singh221/matrix-icons-react-native#readme",
+  "devDependencies": {
+    "@babel/preset-react": "^7.22.5",
+    "@rollup/plugin-babel": "^6.0.3",
+    "@rollup/plugin-node-resolve": "^15.1.0",
+    "@svgr/cli": "^8.0.1",
+    "react-native": "^0.72.3",
+    "react-native-svg": "^13.10.0",
+    "rollup": "^3.27.0"
+  },
+  "peerDependencies": {
+    "react-native-svg": "^13.10.0"
+  }
+}
