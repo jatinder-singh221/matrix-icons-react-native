@@ -45,7 +45,7 @@ Replace `IconName` with the actual name of the icon you want to use.
 
 ## Available Icons
 
-To see the list of available icons and their names, you can check the [Matrix Icons React repository](https://). There, you'll find a visual reference guide to help you choose the right icon for your needs.
+To see the list of available icons and their names, you can check the [Matrix Icons React repository](https://matrix-nu-eight.vercel.app/icons/1.0.0). There, you'll find a visual reference guide to help you choose the right icon for your needs.
 
 
 ## Customise
